@@ -35,3 +35,5 @@ let types = {
     object: [arr.filter(Object)]
 }
 
+console.log(types);
+
